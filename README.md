@@ -2,7 +2,7 @@
 
 ## Task
 
-Firstly fork and clone this repository. For those using the Github Desktop app please follow [these instructions](https://github.com/Code-Your-Future/guides/blob/master/forking-and-cloning/README.md).
+Firstly fork and clone this repository. For those using the Github Desktop app please follow [these instructions](https://github.com/Code-Your-Future/guides/blob/master/forking-and-cloning/README.md). For those using the command line, see if you can use the GitHub documentation to help you.
 
 Only using the `style.css` file, style the html to look as much like this example as you can: http://www.csszengarden.com/217/
 
